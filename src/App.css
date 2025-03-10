@@ -1,4 +1,8 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 
 p{color:black}
-html,body{background-color: whitesmoke;}
+
